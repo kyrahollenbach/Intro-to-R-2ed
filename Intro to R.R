@@ -1,5 +1,10 @@
 # R script to accompany Intro to R
+#
+# Written by Kyra Hollenbach
+#
 # Copy for Kyra Hollenbach
+#
+# Customized by Kyra Hollenbach
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
